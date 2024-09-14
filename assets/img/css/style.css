@@ -1,0 +1,18 @@
+body{
+    margin-left: 20px;
+    background-color: azure;
+    font-family: Verdana;
+}
+
+.titular{
+    color: black;
+}
+
+.NombreTitular {
+    color: black;
+}
+
+.imagenPerfil {
+    border-radius: 9px;
+    border: 3px solid black;
+}
